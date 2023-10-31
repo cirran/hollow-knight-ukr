@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entries>
+<entry name="PALACE_GROUNDS">Палацовий двір</entry>
+<entry name="STAG_NEST">Гніздо рогачів</entry>
+<entry name="KINGS_STATION">Станція Короля</entry>
+<entry name="CROSSROADS">Забуте перехрестя</entry>
+<entry name="GREENPATH">Зелений шлях</entry>
+<entry name="HIDDEN_STATION">Прихована станція</entry>
+<entry name="FUNGAL_WASTES">Станція Королеви</entry>
+<entry name="BONE_FOREST">Кістяний ліс</entry>
+<entry name="ROYAL_GARDENS">Сади Королеви</entry>
+<entry name="DEEPNEST">Далекий хутір</entry>
+<entry name="CITY_OF_TEARS_1">Міські комори</entry>
+<entry name="DIRTMOUTH">Ґрунтмут</entry>
+<entry name="STATIONS">Станції</entry>
+<entry name="RESTING_GROUNDS">Землі спочинку</entry>
+</entries>
